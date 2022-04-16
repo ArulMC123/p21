@@ -1,17 +1,17 @@
 module.exports.mess = {
-	        wait: '_Wait A Minute 🍂, Your Request In Proccess_',
-			success: '_Succes......_',
-			wrongFormat: 'Wrong format, try again in the menu',
+	        wait: '_Tunggu Sedang Di Proses !!!_',
+			success: '_Sukses..._',
+			wrongFormat: 'Tidak Ada Format Di Menu!!!',
 			error: {
 				api: 'Ups, terjadi kesalahan',
 				stick: 'Oops Error Occurred',
 				Iv: 'Link unvalid'
 			},
 			only: {
-				group: 'Sorry! This command is specific to the group only.',
-admin: 'Sorry! This command is specific to group admins only.',
-premium: 'You are not a premium user, send the command *!buypremium* to buy premium',
-owner: 'Sorry! This command is for Bot Owners only.',
+				group: 'Maaf, Command Ini Hanya Berlaku Di Grup',
+admin: 'Maaf, Command Ini Hanya Untuk Admin Group',
+premium: '*Kamu Bukan User Premium!!* Chat Owner Bot Untuk Upgrade Ke Premium',
+owner: 'Maaf, Command Ini Hanya Untuk Owner Kami',
 Badmin: 'Sorry! This command is only for Bots when you°re an admin!!',
 			}
 		}
